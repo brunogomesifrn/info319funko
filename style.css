@@ -1,7 +1,4 @@
 
-}
-#div1{
-}
 .for{
 	border: 2px solid;
 	position: center;
@@ -42,8 +39,19 @@ display: inline-block;
 .div4{
   margin-top: 30px;
 }
+
 .fundorodape{
+	margin-top: 10%;
 	background-color: #AEA9A9;
+	margin-left: 0px;
+
+}
+.fundorodape2{
+
+   margin-top: 24%;
+   background-color: #AEA9A9;
+   margin-left: 0px;
+}
 }
 .pdp{
 	margin-left: 30px;
